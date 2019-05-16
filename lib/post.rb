@@ -6,6 +6,4 @@ class Post
     @author
   end
 
-
-
 end
